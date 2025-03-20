@@ -21,7 +21,7 @@ from .windivert import WinDivert
 from .windivert_dll import WinDivertAddress
 
 __author__ = 'fabio'
-__version__ = '2.1.0'
+__version__ = '2.2.0'
 
 if _sys.version_info < (3, 4):
     # add socket.inet_pton on Python < 3.4
